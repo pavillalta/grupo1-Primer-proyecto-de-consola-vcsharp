@@ -14,6 +14,8 @@ namespace grupo1_Primer_proyecto_de_consola_vcsharp
             Console.WriteLine(c);
             Console.ReadKey();
 
+            //Código agregado por pavillalta
+            int d = 100;
 
         }
     }
