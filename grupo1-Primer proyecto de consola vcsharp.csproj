@@ -1,0 +1,11 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+    <RootNamespace>grupo1_Primer_proyecto_de_consola_vcsharp</RootNamespace>
+    <StartupObject>grupo1_Primer_proyecto_de_consola_vcsharp.Program</StartupObject>
+    <SignAssembly>true</SignAssembly>
+  </PropertyGroup>
+
+</Project>
